@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">addNomedia</string>
+    <string name="path_hint">文件夹位置...</string>
+	<string name="add_it">添加 .nomedia</string>
+	<string name="bool_true">完成</string>
+	<string name="bool_false">得到错误/文件存在</string>
+
+</resources>

@@ -21,8 +21,11 @@ public final class R {
         public static final int main=0x7f030000;
     }
     public static final class string {
+        public static final int add_it=0x7f040002;
         public static final int app_name=0x7f040000;
-        public static final int hello_world=0x7f040001;
+        public static final int bool_false=0x7f040004;
+        public static final int bool_true=0x7f040003;
+        public static final int path_hint=0x7f040001;
     }
     public static final class style {
         public static final int AppTheme=0x7f050000;

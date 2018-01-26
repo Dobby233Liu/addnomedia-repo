@@ -2,6 +2,9 @@
 <resources>
 
     <string name="app_name">addNomedia</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="path_hint">Folder path here...</string>
+	<string name="add_it">Add it</string>
+	<string name="bool_true">OK</string>
+	<string name="bool_false">got error/file exists</string>
 
 </resources>

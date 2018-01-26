@@ -21,9 +21,9 @@ public class MainActivity extends Activity
 			String value = textbox.getText().toString();
 			Boolean bool = addNomedia.addNomedia(value);
 			if(bool){
-				Toast.makeText(MainActivity.this, "OK", Toast.LENGTH_LONG).show();
+				Toast.makeText(MainActivity.this, R.string.bool_true, Toast.LENGTH_LONG).show();
 			}else{
-			Toast.makeText(MainActivity.this, "got error/file exists", Toast.LENGTH_LONG).show();
+			Toast.makeText(MainActivity.this, R.string.bool_false, Toast.LENGTH_LONG).show();
 			
 			}
 			}

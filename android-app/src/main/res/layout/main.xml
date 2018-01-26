@@ -10,12 +10,12 @@
 		android:layout_height="wrap_content"
 		android:ems="10"
 		android:layout_width="wrap_content"
-		android:hint="Folder path here..."
+		android:hint="@string/path_hint"
 		android:id="@+id/path"/>
 
 	<Button
 		android:layout_height="wrap_content"
-		android:text="Add it"
+		android:text="@string/add_it"
 		android:layout_width="wrap_content"
 		android:id="@+id/addButton"/>
 
