@@ -1,0 +1,1 @@
+Usage: Import this library directly use the jar file. Import it in your code use a code: "import com.github.dobby233liu.addnomedialib.addNomedia.". Run it use codes like "Boolean isNomediaAdded = addNomedia.addNomedia(String folderpath);" Write a code to check out it (returned "Boolean true": Ok. returned "Boolean false": Got error/File exists.)
