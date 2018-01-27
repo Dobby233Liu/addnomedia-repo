@@ -1,1 +1,10 @@
-Usage: Import this library directly use the jar file. Import it in your code use a code: "import com.github.dobby233liu.addnomedialib.addNomedia.". Run it use codes like "Boolean isNomediaAdded = addNomedia.addNomedia(String folderpath);" Write a code to check out it (returned "Boolean true": Ok. returned "Boolean false": Got error/File exists.)
+Usage: Import this library directly use the jar file. 
+Import it in your code use a code: "import com.github.dobby233liu.addnomedialib.addNomedia.addNomedia;". 
+Run it use codes like "Boolean isNomediaAdded = addNomedia.addNomedia(String folder_path);"
+Write a code to check out it.
+(returned "Boolean true": Ok. returned "Boolean false": Got error/File exists.)
+用法：直接使用 jar 文件导入这个库。
+使用 “import com.github.dobby233liu.addnomedialib.addNomedia.addNomedia” 导入到你的代码。
+使用像 “Boolean isNomediaAdded = addNomedia.addNomedia(String folder_path);” 的代码运行它（folder_path：文件夹位置，后面绝对要带/）
+编写一段代码来检查它。
+（真：完成，假：得到错误/文件存在）
