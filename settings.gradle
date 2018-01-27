@@ -1,2 +1,2 @@
 include ':android-app'
-// include ':java-lib'
+include ':java-lib'

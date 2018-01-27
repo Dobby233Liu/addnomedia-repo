@@ -1,0 +1,16 @@
+plugins {
+    id 'java-library'
+	id 'java'
+}
+
+repositories {
+    jcenter() 
+}
+version = '1.0'
+
+jar {
+    manifest {
+        attributes('Implementation-Title': project.name,
+                   'Implementation-Version': project.version)
+    }
+}
